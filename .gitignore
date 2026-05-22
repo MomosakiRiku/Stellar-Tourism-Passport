@@ -1,0 +1,19 @@
+# Rust's output directory
+target/
+Cargo.lock
+
+# Local settings
+.soroban/
+.stellar/
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env*.local
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
