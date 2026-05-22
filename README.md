@@ -16,6 +16,24 @@ This system provides:
 
 ---
 
+## 🌟 Project Vision
+
+**Tourism Passport** is more than just a check-in app; it is a vision of a **decentralized, borderless explorer economy** built on the high-speed and ultra-low-cost rails of Stellar.
+
+### 1. Reclaiming Digital Footprints
+In a world dominated by centralized social networks and data-monolithic booking apps, travelers have no sovereign ownership over their travel memories and loyalty credentials. We envision transitioning global travel achievements into a **decentralized passport** where every journey is stored as a verifiable, permanent cryptographic proof owned solely by the traveler.
+
+### 2. Micro-Incentivizing Sustainable Tourism
+By eliminating intermediaries, we enable direct, peer-to-peer micro-rewards. Tourism boards, local communities, and eco-friendly organizations can directly incentive travelers to visit off-the-beaten-path regions or participate in eco-tourism initiatives—delivering instant value back to the local ecosystem via Stellar tokens and NFTs.
+
+### 3. Trustless Administrative Sovereignty
+By utilizing Soroban smart contracts, administrative authority (such as verifying landmarks or distributing rewards) is fully auditable, decentralized, and delegation-friendly. Local management nodes can check in users securely without relying on massive, vulnerable centralized databases or corporate surveillance.
+
+### 4. Bridge to the Real World
+Our ultimate goal is to gamify physical exploration through blockchain-based proofs-of-presence (PoPs). By seamlessly bridging physical milestones with decentralized finance, we create an immersive, gamified traveler economy where every physical footprint blossoms into a real-world digital asset.
+
+---
+
 ## ⚡ Features
 
 ### 1. Smart Contract Logic (Soroban / Rust)
