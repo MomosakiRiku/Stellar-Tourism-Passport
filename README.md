@@ -43,9 +43,11 @@ This system provides:
 - **Explorer Link:** [Stellar Expert - Testnet Contract CCFZ6FYNQWAMJTMBIOZ4LN5332ZRRVMZM6YBSFJZRGZPHK2Q4YPRZFIT](https://stellar.expert/explorer/testnet/contract/CCFZ6FYNQWAMJTMBIOZ4LN5332ZRRVMZM6YBSFJZRGZPHK2Q4YPRZFIT)
 
 ### 📸 Smart Contract Transactions & Interaction Screenshot
-*(Double-click README on GitHub, press Edit, and paste/upload your contract's invoke/deploy screenshot below)*
 
 ![Screenshot](https://github.com/user-attachments/assets/4246010a-edc9-40ff-8837-b9b60101199f)
+![Screenshot](https://github.com/user-attachments/assets/b6777749-f7ef-46e7-b5e3-eaa4dc30fdb6)
+![Screenshot](https://github.com/user-attachments/assets/4b0b5d39-5a31-4ab2-a9ff-ee0d1763569e)
+
 
 ---
 
