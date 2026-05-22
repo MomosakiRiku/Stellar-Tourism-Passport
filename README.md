@@ -45,7 +45,7 @@ This system provides:
 ### 📸 Smart Contract Transactions & Interaction Screenshot
 *(Double-click README on GitHub, press Edit, and paste/upload your contract's invoke/deploy screenshot below)*
 
-![Contract Interactions Placeholder](https://raw.githubusercontent.com/hien17/soroban-bootcamp/main/screenshot-placeholder.png)
+![Screenshot](https://github.com/user-attachments/assets/4246010a-edc9-40ff-8837-b9b60101199f)
 
 ---
 
@@ -60,6 +60,6 @@ This system provides:
 
 ## 👤 Profile
 
-- **Developer:** Stellar Vietnam UniTour Participant
+- **Developer:** 24127500 - Nguyễn Đại Phúc
 - **Freighter Wallet (Testnet):** `GBRKA6VTQJGIX7PCS25HO6HMOREET7JU4AZSVHBOMK56AEGLC4VBXM3M`
 - **Technical Skills:** Rust, Soroban Smart Contracts, TypeScript, React, Vite, Tailwind/Vanilla CSS, DApp Development, Web3 Wallet integration.
